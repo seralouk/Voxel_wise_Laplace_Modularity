@@ -18,7 +18,7 @@
 ----
 #### Important: 
 
-- To be able to run the example code you need to download the data from this link: https://drive.google.com/file/d/1B_KEiyiEzZReZ5L5Ayk0QGhLn7Bc4Ydv/view?usp=sharing and put the **.zip** file into the **Fast_voxel_wise_modularity/Data/** directory that contains the GM mask. You should **not** unzip the data.
+- To be able to run the example code you need to download the data from this link: https://drive.google.com/file/d/1B_KEiyiEzZReZ5L5Ayk0QGhLn7Bc4Ydv/view?usp=sharing and put the **.zip** file into the **Voxel_wise_Laplace_Modularity/Data/** directory that contains the GM mask. You should **not** unzip the data.
 
 ----
 
