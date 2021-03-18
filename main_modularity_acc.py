@@ -14,12 +14,12 @@ from scipy import stats
 from Utilities.utils import standardize_TCS_fast, build_Xu_Xl
 from zipfile import ZipFile
 
-#* Load the GM extracted voxel-wise time-courses of a signle subject (and single run)
+#* Load the GM extracted voxel-wise time-courses of a signle subject (toy example)
 print("\nCase: Modularity using Accordance as adjacency\n")
 print(' '*1+"Loading the GM voxel-wise time-courses of a single subject\n")
 
-zip_file = ZipFile("./Data/GM_voxel_wise_subj_104416_run_1.csv.zip")
-data = pd.read_csv(zip_file.open("GM_voxel_wise_subj_104416_run_1.csv"), header=None, low_memory=False, na_filter=False)
+zip_file = ZipFile("./Data/GM_voxel_wise_toy_example.csv.zip")
+data = pd.read_csv(zip_file.open("GM_voxel_wise_toy_example.csv"), header=None, low_memory=False, na_filter=False)
 X = data.values.T
 print(' '*2+"Initial dimensions of X matrix is: {} i.e. (# voxels, # time-points).\n".format(X.shape))
 
