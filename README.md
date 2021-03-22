@@ -30,3 +30,7 @@
 ----
 
 #### Usage: In the main directory, lunch `python3 main_modularity_acc.py` depending on the desired case.
+
+----
+
+#### The code for the overlay of the Yeo functional atlases onto the leading eigenmodes can be found here: https://github.com/seralouk/Brain_3D_Volume_Yeo_Mapping
