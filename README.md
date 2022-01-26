@@ -29,7 +29,7 @@
 
 ----
 
-#### Usage: In the main directory, lunch `python3 main_modularity_acc.py` depending on the desired case.
+#### Usage: In the main directory, launch `python3 main_modularity_acc.py` depending on the desired case.
 
 ----
 
