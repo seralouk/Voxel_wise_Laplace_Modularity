@@ -1,7 +1,7 @@
 # Fine-grained spectral mapping of voxel-wise connectivity: A framework and application on resting-state brain fMRI data
 
 #### Code accompanying the Ph.D. disseration of Serafeim LOUKAS entitled: "Multivariate and predictive models for brain connectivity with application to neurodevelopment".
-#### URL: TBA, Thèse n. 8854 (EPFL, 2021)
+#### URL: https://infoscience.epfl.ch/record/285683?ln=en, Thèse n. 8854 (EPFL, 2021)
 
 ----
 
